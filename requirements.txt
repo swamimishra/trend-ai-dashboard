@@ -1,0 +1,7 @@
+streamlit
+pandas
+pytrends
+prophet
+plotly
+google-generativeai
+statsmodels
