@@ -5,3 +5,4 @@ plotly
 google-generativeai
 statsmodels
 serpapi
+streamlit-searchbox
